@@ -31,8 +31,8 @@ class Faces(arcade.Window):
         smile_x,smile_y = (face_x + 0,face_y - 10) # Sets the location of the smile
         eye1_x,eye1_y = (face_x - 30,face_y + 20)  # sets the location of the eyes (this and below line)
         eye2_x,eye2_y = (face_x + 30,face_y + 20)
-        catch1_x,catch1_y = (face_x - 25,face_y + 25) # sets the location of the light catches (this and below line)
-        catch2_x,catch2_y = (face_x + 35,face_y + 25) 
+        catch1_x,catch1_y = (face_x - 25,face_y + 31) # sets the location of the light catches (this and below line)
+        catch2_x,catch2_y = (face_x + 35,face_y + 31) 
 # the below lines all determine the size and the color of each component of the smiley face 
         arcade.draw_circle_filled(face_x, face_y, 100, open_color.yellow_3)
         arcade.draw_circle_outline(face_x, face_y, 100, open_color.black,4)

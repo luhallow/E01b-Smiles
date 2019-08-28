@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
-
+# opens the arcade program and all of the extensions needed to run this program
 import utils, open_color, arcade
 
 utils.check_version((3,7))
-
+# sets the window size (WxH)
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 SCREEN_TITLE = "Smiley Face Example"
-
+# sets the window to a custom sizing
 class Faces(arcade.Window):
     """ Our custom Window Class"""
 

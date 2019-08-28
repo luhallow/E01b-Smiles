@@ -7,7 +7,7 @@ Comments in Python are marked by a # sign (for single-line comments) or three ma
 
 As with your assignments, please edit the LICENSE file (replace the [year] [fullname] with the current year and your name); you will also be expected to edit README.md (this file) to describe what you have accomplished.
 
-I followed the assignment directions to the tee and experienced no problems with completing it. For all of the files, I did a lot of trial and error to try and nail down the image as close to the original as I could. It wasn't until I reached the third file that I saw the exact size of the grid was listed at the top, which made the whole thing a lot simpler. When I was attempting to nail down the light catches and eye placements, I tested every x,y pairing from 25 to 55. That was the only portion that really took some time and was a little tedious, but I got the hang of it all. 
+# I followed the assignment directions to the tee and experienced no problems with completing it. For all of the files, I did a lot of trial and error to try and nail down the image as close to the original as I could. It wasn't until I reached the third file that I saw the exact size of the grid was listed at the top, which made the whole thing a lot simpler. When I was attempting to nail down the light catches and eye placements, I tested every x,y pairing from 25 to 55. That was the only portion that really took some time and was a little tedious, but I got the hang of it all. 
 
 ---
 
